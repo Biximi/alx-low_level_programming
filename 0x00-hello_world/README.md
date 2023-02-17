@@ -31,8 +31,3 @@ What you should learn from this project:
 
 ### 7. [What happens when you type gcc main.c](https://medium.com/@antisyllogism/what-happens-when-you-run-gcc-main-c-6c5ee9c51092)
 * Blog
-
----
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
